@@ -41,13 +41,10 @@ The workshop is aims to be accessible for all interested in modelling and analys
 
 13.30-13.35: Welcome
 
-- 13.35-13.50: **Barriers to Reproducible and Accessible Research and Data Models to Address These** [M. Deakin]
+- 13.35-14.05: **Barriers to Reproducible and Accessible Research and Data Models to Address These** [M. Deakin]
     - Overview of the "reproducibility gap" in research into distribution systems analysis; why this matters; and what can be done to address this
-- 13.50-14.00: **PowerIO: Compiler Infrastructure for Power Systems** [S. Talkington]
+- 14.05-14.15: **PowerIO: Compiler Infrastructure for Power Systems** [S. Talkington]
     - Demo of the community-based [PowerIO](https://github.com/eigenergy/powerio) package for translation to/from data formats
-- 14:00-14:15: **Benchmarking Distribution System Optimization 101 (part 1/2)** [A. Pandey]
-    - "What practical steps are required to generate rigorous, benchmark-quality results for general (nonlinear) optimization problems?"
-    - _Link to resource coming summer 2026_
 - 14.15-14.45: **Interactive Case Study 1** [M. Vanin]
     - "From High-Quality Data Models to High-Fidelity Network Models"
     - _Link to resource coming summer 2026_
