@@ -4,6 +4,8 @@
 
 This tutorial consists of a Jupyter notebook in the Julia language. While no prior knowledge of Julia is required, we do ask that the participants install the libraries and set-up their environment beforehand.
 
+> **New to Julia?** For a step-by-step walkthrough with copy-paste commands for Linux, Windows and macOS, see [`SETUP.md`](From-High-Quality-Data-Models-to-High-Fidelity-Network-Models/SETUP.md). The notes below are a quick reference.
+
 ### Getting Julia 
 This tutorial requires requires **Julia ≥ 1.10**. If you don't have Julia yet, install it with [juliaup](https://github.com/JuliaLang/juliaup), or via the
 [Microsoft Store](https://apps.microsoft.com/detail/9NJNWW8PVKMN) (or
