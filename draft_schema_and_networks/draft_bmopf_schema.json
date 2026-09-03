@@ -265,6 +265,13 @@
                     },
                     "bus": {
                         "$ref": "#/$defs/bus_type"
+                    },
+                    "cost":{
+                        "type": "array",
+                        "description": "Per-phase linear generating cost [$/kWh], one entry per terminal",
+                        "items": {
+                            "type": "number"
+                        }
                     }
                 },
                 "required": [
