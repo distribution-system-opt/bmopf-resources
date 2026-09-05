@@ -11,6 +11,11 @@ A draft description of the mathematical model is available in the root of this r
 
 The canonical home of the data schema is [`dsopt-schema`](https://github.com/distribution-system-opt/dsopt-schema), and the canonical home of the data semantics and math model is [`math-and-data-model-specifications`](https://github.com/distribution-system-opt/math-and-data-model-specifications). This repository holds draft and workshop material only. The copy at `draft_schema_and_networks/draft_bmopf_schema.json` is kept for the example networks beside it and is not the schema to write a case against.
 
+The [BMOPF 0.2.0 proposal](https://github.com/distribution-system-opt/dsopt-schema/tree/propose-bmopf-0.2.0)
+builds on the Task Force's schema and specification work, with additional findings
+from a reference implementation in PowerIO v0.11.0. It remains subject to Task Force approval. Historical workshop
+files in this repository retain their original status and content.
+
 Community-based recommendations and contributions are welcome and encouraged. Please feel free to submit comments and questions in the [issue tracker](https://github.com/distribution-system-opt/bmopf-resources/issues).
 
 ## Upcoming Task Force activities
