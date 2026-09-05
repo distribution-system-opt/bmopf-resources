@@ -266,9 +266,9 @@
                     "bus": {
                         "$ref": "#/$defs/bus_type"
                     },
-                    "cost":{
+                    "energy_cost_rate":{
                         "type": "array",
-                        "description": "Per-phase linear generating cost [$/kWh], one entry per terminal",
+                        "description": "Per-phase linear generating energy cost rate (ie dispatch cost) [$/kWh], one entry per terminal",
                         "items": {
                             "type": "number"
                         }
@@ -471,9 +471,9 @@
                             "$ref": "#/$defs/nonnegative_number"
                         }
                     },
-                    "cost": {
+                    "energy_cost_rate": {
                         "type": "array",
-                        "description": "Per-phase linear generating cost [$/kWh], one entry per phase conductor",
+                        "description": "Per-phase linear generating cost (ie dispatch cost) [$/kWh], one entry per phase conductor",
                         "items": {
                             "type": "number"
                         }
@@ -489,7 +489,7 @@
                     }
                 },
                 "required": [
-                    "cost",
+                    "energy_cost_rate",
                     "bus",
                     "configuration",
                     "terminal_map"
